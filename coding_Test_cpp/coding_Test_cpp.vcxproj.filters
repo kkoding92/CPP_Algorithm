@@ -12,5 +12,8 @@
     <ClCompile Include="1_2.cpp">
       <Filter>1_Greedy</Filter>
     </ClCompile>
+    <ClCompile Include="1_3.cpp">
+      <Filter>1_Greedy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
