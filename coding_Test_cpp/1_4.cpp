@@ -9,6 +9,21 @@ int main()
 
 	cin >> n >> k;
 
+    //1번 방법
+    //while (true)
+    //{
+    //    if (n == 1)
+    //        break;
+
+    //    if (n % k == 0)
+    //        n /= k;
+    //    else
+    //        n--;
+
+    //    result++;
+    //}
+
+    //2번 방법 - N이 커질 경우 계속 1씩 빼는 것은 시간이 오래 걸리기에 
     while (true) {
         // N이 K로 나누어 떨어지는 수가 될 때까지만 1씩 빼기
         int target = (n / k) * k;
