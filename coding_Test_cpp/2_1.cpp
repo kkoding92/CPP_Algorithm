@@ -1,25 +1,54 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
+struct POINT
+{
+	int x, y;
+};
+
+POINT curPoint = { 1, 1 };
+
 void main()
 {
-	int n;
-	cin >> n;
+	int input;
+	string plan;
 
-	int result = 0;
+	cin >> input;
+	cin.ignore();
+	getline(cin, plan);
 
-	for (int i = 0; i <= n; ++i)
+	for (int i = 0; i < plan.size(); ++i)
 	{
-		for (int j = 0; j < 60; ++j)
+		POINT movePoint = { 0, 0 };
+		POINT tempPoint;
+
+		switch (plan[i])
 		{
-			for (int k = 0; k < 60; ++k)
-			{
-				if (i % 10 == 3 || j / 10 == 3 || j % 10 == 3 || k / 10 == 3 || k % 10 == 3)
-					result++;
-			}
+		case 'L':
+			movePoint = { 0, -1 };
+			break;
+		case 'R':
+			movePoint = { 0, 1 };
+			break;
+		case 'U':
+			movePoint = { -1, 0 };
+			break;
+		case 'D':
+			movePoint = { 1, 0 };
+			break;
 		}
+
+		tempPoint.x = curPoint.x + movePoint.x;
+		tempPoint.y = curPoint.y + movePoint.y;
+
+		if (tempPoint.x < 1 || tempPoint.x > input || tempPoint.y < 1 || tempPoint.y > input)
+			continue;
+
+		curPoint.x = tempPoint.x;
+		curPoint.y = tempPoint.y;
 	}
 
-	cout << result << endl;
+	cout << curPoint.x << " " << curPoint.y << endl;
 }

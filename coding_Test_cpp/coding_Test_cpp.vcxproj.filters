@@ -24,5 +24,14 @@
     <ClCompile Include="2_1.cpp">
       <Filter>2_Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="2_2.cpp">
+      <Filter>2_Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="2_3.cpp">
+      <Filter>2_Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="2_4.cpp">
+      <Filter>2_Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
