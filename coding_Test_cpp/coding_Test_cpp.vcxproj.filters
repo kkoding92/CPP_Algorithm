@@ -4,6 +4,9 @@
     <Filter Include="1_Greedy">
       <UniqueIdentifier>{94c72140-ced3-4e61-a63e-57cc787ca304}</UniqueIdentifier>
     </Filter>
+    <Filter Include="2_Implementation">
+      <UniqueIdentifier>{341ce0c8-d87a-46e2-a22b-8dfc9d53186a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -17,6 +20,9 @@
     </ClCompile>
     <ClCompile Include="1_4.cpp">
       <Filter>1_Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="2_1.cpp">
+      <Filter>2_Implementation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
