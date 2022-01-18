@@ -7,6 +7,9 @@
     <Filter Include="2_Implementation">
       <UniqueIdentifier>{341ce0c8-d87a-46e2-a22b-8dfc9d53186a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="3_DFS/BFS">
+      <UniqueIdentifier>{60a0523e-f2c0-49ce-8a04-85111a662e3a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="2_4.cpp">
       <Filter>2_Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="3_1.cpp">
+      <Filter>3_DFS/BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
