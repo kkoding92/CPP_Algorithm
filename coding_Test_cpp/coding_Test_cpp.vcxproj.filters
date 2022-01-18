@@ -39,5 +39,8 @@
     <ClCompile Include="3_1.cpp">
       <Filter>3_DFS/BFS</Filter>
     </ClCompile>
+    <ClCompile Include="3_2.cpp">
+      <Filter>3_DFS/BFS</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
