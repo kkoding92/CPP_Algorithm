@@ -10,6 +10,9 @@
     <Filter Include="3_DFS/BFS">
       <UniqueIdentifier>{60a0523e-f2c0-49ce-8a04-85111a662e3a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="4_Sort">
+      <UniqueIdentifier>{691ad7e3-1f21-4c7e-a84e-35350cb8c94b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -41,6 +44,9 @@
     </ClCompile>
     <ClCompile Include="3_2.cpp">
       <Filter>3_DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="4_1.cpp">
+      <Filter>4_Sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
