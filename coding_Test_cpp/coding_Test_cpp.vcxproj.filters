@@ -48,5 +48,11 @@
     <ClCompile Include="4_1.cpp">
       <Filter>4_Sort</Filter>
     </ClCompile>
+    <ClCompile Include="4_2.cpp">
+      <Filter>4_Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="4_3.cpp">
+      <Filter>4_Sort</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
