@@ -54,5 +54,8 @@
     <ClCompile Include="4_3.cpp">
       <Filter>4_Sort</Filter>
     </ClCompile>
+    <ClCompile Include="4_4.cpp">
+      <Filter>4_Sort</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
