@@ -13,6 +13,9 @@
     <Filter Include="4_Sort">
       <UniqueIdentifier>{691ad7e3-1f21-4c7e-a84e-35350cb8c94b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="5_Search">
+      <UniqueIdentifier>{c5058fdd-95cd-4970-b3e8-9460b9426872}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="4_6.cpp">
       <Filter>4_Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="5_1.cpp">
+      <Filter>5_Search</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
