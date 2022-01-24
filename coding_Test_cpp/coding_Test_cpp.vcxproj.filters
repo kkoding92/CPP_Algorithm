@@ -69,5 +69,8 @@
     <ClCompile Include="5_1.cpp">
       <Filter>5_Search</Filter>
     </ClCompile>
+    <ClCompile Include="5_2.cpp">
+      <Filter>5_Search</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
