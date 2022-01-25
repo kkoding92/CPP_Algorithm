@@ -81,5 +81,11 @@
     <ClCompile Include="6_1.cpp">
       <Filter>6_Dynamic</Filter>
     </ClCompile>
+    <ClCompile Include="6_2.cpp">
+      <Filter>6_Dynamic</Filter>
+    </ClCompile>
+    <ClCompile Include="6_4.cpp">
+      <Filter>6_Dynamic</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
