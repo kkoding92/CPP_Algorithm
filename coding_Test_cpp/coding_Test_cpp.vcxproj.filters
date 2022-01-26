@@ -19,6 +19,9 @@
     <Filter Include="6_Dynamic">
       <UniqueIdentifier>{c6a74f26-b8a6-4d0d-aa66-ba3cc804988b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="7_ShortestPath">
+      <UniqueIdentifier>{f13c6b86-907f-4bba-aeeb-d6eee50e561e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -89,6 +92,9 @@
     </ClCompile>
     <ClCompile Include="6_3.cpp">
       <Filter>6_Dynamic</Filter>
+    </ClCompile>
+    <ClCompile Include="7_1.cpp">
+      <Filter>7_ShortestPath</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
