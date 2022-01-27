@@ -105,5 +105,8 @@
     <ClCompile Include="7_4.cpp">
       <Filter>7_ShortestPath</Filter>
     </ClCompile>
+    <ClCompile Include="7_5.cpp">
+      <Filter>7_ShortestPath</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
