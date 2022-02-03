@@ -126,5 +126,8 @@
     <ClCompile Include="8_5.cpp">
       <Filter>8_graph</Filter>
     </ClCompile>
+    <ClCompile Include="8_6.cpp">
+      <Filter>8_graph</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
