@@ -135,7 +135,10 @@
     <ClCompile Include="8_7.cpp">
       <Filter>8_graph</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="1_EQ_1.cpp">
+      <Filter>1_Greedy\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="1_EQ_2.cpp">
       <Filter>1_Greedy\E.Q</Filter>
     </ClCompile>
   </ItemGroup>
