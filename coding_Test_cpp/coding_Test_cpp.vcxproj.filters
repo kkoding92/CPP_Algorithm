@@ -141,5 +141,8 @@
     <ClCompile Include="1_EQ_2.cpp">
       <Filter>1_Greedy\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="1_EQ_3.cpp">
+      <Filter>1_Greedy\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
