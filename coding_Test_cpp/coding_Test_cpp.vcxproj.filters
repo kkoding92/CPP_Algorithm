@@ -159,5 +159,8 @@
     <ClCompile Include="2_EQ_2.cpp">
       <Filter>2_Implementation\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="2_EQ_3.cpp">
+      <Filter>2_Implementation\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
