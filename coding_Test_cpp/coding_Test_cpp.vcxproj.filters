@@ -31,6 +31,9 @@
     <Filter Include="2_Implementation\E.Q">
       <UniqueIdentifier>{f8c9b34e-27b6-4e9c-a975-df52741a62c8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="3_DFS/BFS\E.Q">
+      <UniqueIdentifier>{e96b842f-d12d-4138-8868-20d8d3b399ae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -164,6 +167,9 @@
     </ClCompile>
     <ClCompile Include="2_EQ_4.cpp">
       <Filter>2_Implementation\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="3_EQ_1.cpp">
+      <Filter>3_DFS/BFS\E.Q</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
