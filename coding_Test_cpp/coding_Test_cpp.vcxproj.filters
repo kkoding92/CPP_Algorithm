@@ -177,5 +177,8 @@
     <ClCompile Include="3_EQ_3.cpp">
       <Filter>3_DFS/BFS\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="3_EQ_4.cpp">
+      <Filter>3_DFS/BFS\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
