@@ -195,5 +195,8 @@
     <ClCompile Include="4_EQ_2.cpp">
       <Filter>4_Sort\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="4_EQ_3.cpp">
+      <Filter>4_Sort\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
