@@ -37,6 +37,9 @@
     <Filter Include="4_Sort\E.Q">
       <UniqueIdentifier>{59c01903-ac21-4c87-9620-ff3922a1cd36}</UniqueIdentifier>
     </Filter>
+    <Filter Include="5_Search\E.Q">
+      <UniqueIdentifier>{d8017144-b615-47de-abdf-07e9a18ed5ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -197,6 +200,9 @@
     </ClCompile>
     <ClCompile Include="4_EQ_3.cpp">
       <Filter>4_Sort\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="5_EQ_1.cpp">
+      <Filter>5_Search\E.Q</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
