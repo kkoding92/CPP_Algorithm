@@ -222,5 +222,14 @@
     <ClCompile Include="6_EQ_3.cpp">
       <Filter>6_Dynamic\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="6_EQ_4.cpp">
+      <Filter>6_Dynamic\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="6_EQ_5.cpp">
+      <Filter>6_Dynamic\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="6_EQ_6.cpp">
+      <Filter>6_Dynamic\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
