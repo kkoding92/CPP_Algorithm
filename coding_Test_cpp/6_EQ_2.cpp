@@ -3,7 +3,6 @@ using namespace std;
 
 int n;
 
-int arr[500][500];
 int dp[500][500];
 
 int main()

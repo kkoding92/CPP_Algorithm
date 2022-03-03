@@ -219,5 +219,8 @@
     <ClCompile Include="6_EQ_2.cpp">
       <Filter>6_Dynamic\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="6_EQ_3.cpp">
+      <Filter>6_Dynamic\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
