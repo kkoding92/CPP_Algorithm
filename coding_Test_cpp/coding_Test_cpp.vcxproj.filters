@@ -43,6 +43,9 @@
     <Filter Include="6_Dynamic\E.Q">
       <UniqueIdentifier>{cbb3b850-5d92-4970-bde8-f9438a815c5c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="7_ShortestPath\E.Q">
+      <UniqueIdentifier>{2785cc5d-37ad-40df-a0c9-53f7ac3105b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -230,6 +233,9 @@
     </ClCompile>
     <ClCompile Include="6_EQ_6.cpp">
       <Filter>6_Dynamic\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="7_EQ_1.cpp">
+      <Filter>7_ShortestPath\E.Q</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

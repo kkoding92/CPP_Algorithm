@@ -44,4 +44,4 @@ int main(void) {
 
     // 최소 편집 거리 출력
     cout << editDist(str1, str2) << '\n';
-}
+}gi
