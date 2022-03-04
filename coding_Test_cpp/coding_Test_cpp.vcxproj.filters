@@ -237,5 +237,8 @@
     <ClCompile Include="7_EQ_1.cpp">
       <Filter>7_ShortestPath\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="7_EQ_2.cpp">
+      <Filter>7_ShortestPath\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
