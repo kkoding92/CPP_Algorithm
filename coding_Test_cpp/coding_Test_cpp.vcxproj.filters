@@ -240,5 +240,11 @@
     <ClCompile Include="7_EQ_2.cpp">
       <Filter>7_ShortestPath\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="7_EQ_3.cpp">
+      <Filter>7_ShortestPath\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="7_EQ_4.cpp">
+      <Filter>7_ShortestPath\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
