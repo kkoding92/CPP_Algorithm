@@ -46,6 +46,9 @@
     <Filter Include="7_ShortestPath\E.Q">
       <UniqueIdentifier>{2785cc5d-37ad-40df-a0c9-53f7ac3105b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="8_graph\E.Q">
+      <UniqueIdentifier>{ac9f3d60-e0db-4fcf-b485-9afe1db3ead9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.cpp">
@@ -245,6 +248,9 @@
     </ClCompile>
     <ClCompile Include="7_EQ_4.cpp">
       <Filter>7_ShortestPath\E.Q</Filter>
+    </ClCompile>
+    <ClCompile Include="8_EQ_1.cpp">
+      <Filter>8_graph\E.Q</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
