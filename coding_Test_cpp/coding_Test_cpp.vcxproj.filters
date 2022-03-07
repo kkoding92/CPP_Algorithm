@@ -258,5 +258,8 @@
     <ClCompile Include="8_EQ_3.cpp">
       <Filter>8_graph\E.Q</Filter>
     </ClCompile>
+    <ClCompile Include="8_EQ_4.cpp">
+      <Filter>8_graph\E.Q</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
