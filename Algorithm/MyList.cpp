@@ -117,6 +117,20 @@ public:
 		RemoveNode(_tail->_prev);
 	}
 
+	T& search_back(int value)
+	{
+		int cnt = 0;
+		Node<T>* curNode = _tail;
+
+		while (cnt <= value)
+		{
+			curNode = curNode->_prev;
+			cnt++;
+		}
+
+		return curNode->_data;
+	}
+
 	void size() { return _size; }
 
 private:
@@ -201,4 +215,6 @@ int main()
 
 	for (List<int>::iterator it = li.begin(); it != li.end(); it++)
 		cout << (*it) << endl;
+
+	cout << li.search_back(1) << endl;
 }
