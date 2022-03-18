@@ -22,7 +22,6 @@ public:
 		if (_capacity == _size)
 		{
 			int newCapacity = static_cast<int>(_capacity * 1.5);
-
 			if (_capacity == newCapacity)
 				newCapacity++;
 
