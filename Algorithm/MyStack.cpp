@@ -1,6 +1,5 @@
 #include <iostream>
 #include <stack>
-#include <list>
 #include <vector>
 using namespace std;
 
@@ -33,7 +32,7 @@ private:
 
 int main()
 {
-	stack<int, list<int>> s;
+	stack<int> s;
 
 	s.push(1);
 	s.push(2);
