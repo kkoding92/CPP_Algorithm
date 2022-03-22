@@ -126,4 +126,4 @@ int main()
 	ll.Insert(0, 6);
 
 	ll.printAll();
-}
+}	
