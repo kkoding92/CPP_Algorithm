@@ -5,66 +5,72 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="소스 파일\past">
+      <UniqueIdentifier>{5aee3ae9-61ad-4593-8143-d3881855d460}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="4.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="6.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="7.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="8.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="9.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Algorithm\cha.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="11.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="12.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="13.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="14.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="15.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="16.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="17.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="18.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="19.cpp">
+      <Filter>소스 파일\past</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Algorithm\cha.cpp">
+      <Filter>소스 파일\past</Filter>
+    </ClCompile>
+    <ClCompile Include="20.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
