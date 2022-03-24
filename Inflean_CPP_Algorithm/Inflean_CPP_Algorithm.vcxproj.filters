@@ -71,6 +71,9 @@
       <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="20.cpp">
+      <Filter>소스 파일\past</Filter>
+    </ClCompile>
+    <ClCompile Include="21.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
