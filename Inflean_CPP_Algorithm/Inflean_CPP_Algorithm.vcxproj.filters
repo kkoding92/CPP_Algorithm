@@ -77,15 +77,18 @@
       <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="22.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="23.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="24.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="25.cpp">
+      <Filter>소스 파일\past</Filter>
+    </ClCompile>
+    <ClCompile Include="26.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
