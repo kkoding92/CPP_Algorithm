@@ -89,18 +89,21 @@
       <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="26.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="27.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="28.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="31.cpp">
+      <Filter>소스 파일\past</Filter>
+    </ClCompile>
+    <ClCompile Include="32.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
