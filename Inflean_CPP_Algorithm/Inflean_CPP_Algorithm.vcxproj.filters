@@ -155,12 +155,15 @@
       <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="50.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="52.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\past</Filter>
     </ClCompile>
     <ClCompile Include="53.cpp">
+      <Filter>소스 파일\past</Filter>
+    </ClCompile>
+    <ClCompile Include="55.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
